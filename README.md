@@ -15,7 +15,6 @@ entity_finder
   - 一般的なMOBは128m以上離れるとデスポーンするんだからそれ以上いらないでしょ(過激)
 - tagやスコアを付与せずに直接functionを実行します
   - 思想の違い
-- `player_interacted_with_entity` 対応
 
 ### できないこと
 
@@ -30,8 +29,10 @@ entity_finder
 |Resource Location|description|
 |:--|:--|
 |`#entity_finder:entity_hurt_player`|進捗`entity_hurt_player`達成時にプレイヤーに対して攻撃を行ったエンティティを実行者として実行されます|
+|`#entity_finder:fishing_rod_hooked`|進捗`fishing_rod_hooked`達成時にプレイヤーが釣り竿で引っ張ったエンティティを実行者として実行されます|
 |`#entity_finder:player_hurt_entity`|進捗`player_hurt_entity`達成時にプレイヤーに攻撃されたエンティティを実行者として実行されます|
 |`#entity_finder:player_interacted_with_entity`|進捗`player_interacted_with_entity`達成時にプレイヤーになにかされたエンティティを実行者として実行されます|
+|`#entity_finder:villager_trade`|進捗`villager_trade`達成時にプレイヤーと取引をしたエンティティを実行者として実行されます(1tickに1回まで)|
 
 ## Usage
 

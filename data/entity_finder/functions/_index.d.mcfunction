@@ -41,5 +41,7 @@
   #declare tag ef-F
   #declare team entity_finder.null
   #declare tag/function entity_finder:entity_hurt_player
+  #declare tag/function entity_finder:fishing_rod_hooked
   #declare tag/function entity_finder:player_hurt_entity
   #declare tag/function entity_finder:player_interacted_with_entity
+  #declare tag/function entity_finder:villager_trade
