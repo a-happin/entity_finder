@@ -1,0 +1,281 @@
+{
+  "criteria": {
+    "ef.0": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.0\"]}"
+        }
+      }
+    },
+    "ef-0": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-0\"]}"
+        }
+      }
+    },
+    "ef.1": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.1\"]}"
+        }
+      }
+    },
+    "ef-1": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-1\"]}"
+        }
+      }
+    },
+    "ef.2": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.2\"]}"
+        }
+      }
+    },
+    "ef-2": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-2\"]}"
+        }
+      }
+    },
+    "ef.3": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.3\"]}"
+        }
+      }
+    },
+    "ef-3": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-3\"]}"
+        }
+      }
+    },
+    "ef.4": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.4\"]}"
+        }
+      }
+    },
+    "ef-4": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-4\"]}"
+        }
+      }
+    },
+    "ef.5": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.5\"]}"
+        }
+      }
+    },
+    "ef-5": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-5\"]}"
+        }
+      }
+    },
+    "ef.6": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.6\"]}"
+        }
+      }
+    },
+    "ef-6": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-6\"]}"
+        }
+      }
+    },
+    "ef.7": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.7\"]}"
+        }
+      }
+    },
+    "ef-7": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-7\"]}"
+        }
+      }
+    },
+    "ef.8": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.8\"]}"
+        }
+      }
+    },
+    "ef-8": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-8\"]}"
+        }
+      }
+    },
+    "ef.9": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.9\"]}"
+        }
+      }
+    },
+    "ef-9": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-9\"]}"
+        }
+      }
+    },
+    "ef.A": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.A\"]}"
+        }
+      }
+    },
+    "ef-A": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-A\"]}"
+        }
+      }
+    },
+    "ef.B": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.B\"]}"
+        }
+      }
+    },
+    "ef-B": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-B\"]}"
+        }
+      }
+    },
+    "ef.C": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.C\"]}"
+        }
+      }
+    },
+    "ef-C": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-C\"]}"
+        }
+      }
+    },
+    "ef.D": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.D\"]}"
+        }
+      }
+    },
+    "ef-D": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-D\"]}"
+        }
+      }
+    },
+    "ef.E": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.E\"]}"
+        }
+      }
+    },
+    "ef-E": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-E\"]}"
+        }
+      }
+    },
+    "ef.F": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef.F\"]}"
+        }
+      }
+    },
+    "ef-F": {
+      "trigger": "player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags: [\"ef-F\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    ["ef.0", "ef-0"],
+    ["ef.1", "ef-1"],
+    ["ef.2", "ef-2"],
+    ["ef.3", "ef-3"],
+    ["ef.4", "ef-4"],
+    ["ef.5", "ef-5"],
+    ["ef.6", "ef-6"],
+    ["ef.7", "ef-7"],
+    ["ef.8", "ef-8"],
+    ["ef.9", "ef-9"],
+    ["ef.A", "ef-A"],
+    ["ef.B", "ef-B"],
+    ["ef.C", "ef-C"],
+    ["ef.D", "ef-D"],
+    ["ef.E", "ef-E"],
+    ["ef.F", "ef-F"]
+  ],
+  "rewards": {
+    "function": "entity_finder:handler/player_interacted_with_entity/"
+  }
+}
